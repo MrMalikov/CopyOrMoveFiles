@@ -1,0 +1,17 @@
+C:\Users\fab\source\repos\FileMover\MovingFolderFiles\bin\Release\MovingFolderFiles.exe.config
+C:\Users\fab\source\repos\FileMover\MovingFolderFiles\bin\Release\MovingFolderFiles.exe.manifest
+C:\Users\fab\source\repos\FileMover\MovingFolderFiles\bin\Release\MovingFolderFiles.application
+C:\Users\fab\source\repos\FileMover\MovingFolderFiles\bin\Release\MovingFolderFiles.exe
+C:\Users\fab\source\repos\FileMover\MovingFolderFiles\bin\Release\MovingFolderFiles.pdb
+C:\Users\fab\source\repos\FileMover\MovingFolderFiles\obj\Release\MainWindow.g.cs
+C:\Users\fab\source\repos\FileMover\MovingFolderFiles\obj\Release\App.g.cs
+C:\Users\fab\source\repos\FileMover\MovingFolderFiles\obj\Release\MovingFolderFiles_MarkupCompile.cache
+C:\Users\fab\source\repos\FileMover\MovingFolderFiles\obj\Release\MovingFolderFiles_MarkupCompile.lref
+C:\Users\fab\source\repos\FileMover\MovingFolderFiles\obj\Release\MainWindow.baml
+C:\Users\fab\source\repos\FileMover\MovingFolderFiles\obj\Release\MovingFolderFiles.g.resources
+C:\Users\fab\source\repos\FileMover\MovingFolderFiles\obj\Release\MovingFolderFiles.Properties.Resources.resources
+C:\Users\fab\source\repos\FileMover\MovingFolderFiles\obj\Release\MovingFolderFiles.csproj.GenerateResource.cache
+C:\Users\fab\source\repos\FileMover\MovingFolderFiles\obj\Release\MovingFolderFiles.exe.manifest
+C:\Users\fab\source\repos\FileMover\MovingFolderFiles\obj\Release\MovingFolderFiles.application
+C:\Users\fab\source\repos\FileMover\MovingFolderFiles\obj\Release\MovingFolderFiles.exe
+C:\Users\fab\source\repos\FileMover\MovingFolderFiles\obj\Release\MovingFolderFiles.pdb
